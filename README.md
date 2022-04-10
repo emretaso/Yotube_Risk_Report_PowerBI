@@ -1,15 +1,7 @@
 ## Yotube Risk Report
 
 
-Information that provide of Youtube vidios tracking and will change month on month:
-Videos without description
-Videos with comments enabled
-Channels without location
-Videos with less than 100 views
-That information should be served to the 3 types of users:
-1. Global Manager
-2. Country Manager
-3. Brand Manager
-Let me know if you have any questions.
+The dashboard examines the success and risk performance of YouTube promotional videos from different companies in various countries. 
+Contains brief information for Global Manager, Country Manager and Brand Managers.
 
 ![](images/Mainpage.jpg)
